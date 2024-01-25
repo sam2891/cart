@@ -1,0 +1,77 @@
+
+[
+    {
+   
+       "id": 1 ,
+       "name":"Basket Chair" ,
+       "price":181.48 ,
+       "image":"./Image/chair-png-40525.png"
+   
+   }, 
+    {
+       "id": 2 ,
+       "name":"Basket Chair" ,
+       "price":199.00 ,
+       "image":"./Image/Chair12.png"
+   },
+    {
+       "id": 3 ,
+       "name":"Basket Chair" ,
+       "price":190.00 ,
+       "image":"./Image/Chair13.png"
+   },
+    {
+       "id": 4 ,
+       "name":"Basket Chair" ,
+       "price":180.00 ,
+       "image":"./Image/Chair3.jpg"
+   },
+    {
+       "id": 5 ,
+       "name":"Basket Chair" ,
+       "price":200.00 ,
+       "image":"./Image/Chair4.png"
+   },
+    {
+       "id": 6 ,
+       "name":"Basket Chair" ,
+       "price":500.00 ,
+       "image":"./Image/Chair5.png"
+   },
+    {
+       "id": 7 ,
+       "name":"Basket Chair" ,
+       "price":375.00 ,
+       "image":"./Image/Chair6.png"
+   },
+    {
+       "id": 8 ,
+       "name":"Basket Chair" ,
+       "price":250.00 ,
+       "image":"./Image/Chair7.png"
+   },
+    {
+       "id": 9 ,
+       "name":"Basket Chair" ,
+       "price":175.00 ,
+       "image":"./Image/Chair8.png"
+   },
+    {
+       "id": 10 ,
+       "name":"Basket Chair" ,
+       "price":300.00 ,
+       "image":"./Image/Chair9.png"
+   },
+    {
+       "id": 11 ,
+       "name":"Basket Chair" ,
+       "price":280.00,
+       "image":"./Image/Chair10.png"
+   },
+    {
+       "id": 12 ,
+       "name":"Basket Chair" ,
+       "price":280.00,
+       "image":"./Image/877.jpg"
+   }
+   ]
